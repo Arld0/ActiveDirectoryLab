@@ -18,6 +18,15 @@ In this lab, Im going to walk through how to create an active directory home-lab
 
 <h2>Program walk-through:</h2>
 
+- <b>What to do</b>
+- <b>Disable IE Enhanced Security</b>
+-	<b>Download create_users.ps1 + names.txt</b>
+-	<b>Open PowerShell ISE as Admin</b>
+-	<b>Set-ExecutionPolicy Unrestricted</b>
+-	<b>Open script, adjust paths & domain info</b>
+-	<b>Run script (F5)</b>
+-	<b>Verify users in ADUC under _USERS OU</b>
+
 <p align="center">
 Creating User with powerShell ISE<br/>
 <img src="https://i.imgur.com/YiyG1HM.png"<br />
